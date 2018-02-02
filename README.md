@@ -3,7 +3,7 @@ Codes for McCormick et al 2012 "A hierarchical model for association rule mining
 
 Questions contact Tyler McCormick, tylermc@uw.edu
 
-##Directory
+## Directory
 
 ### Main files to run the code (call the subsequent files) 
 - main_fcn_recsys2.R
